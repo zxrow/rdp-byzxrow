@@ -1,4 +1,4 @@
-name: zxrow
+name: zxrow1
 on: workflow_dispatch
 jobs:
   build:
