@@ -1,6 +1,6 @@
-RDP - FREE
+🔍RDP - FREE🔍
 
-© A.Farel.E
+© zxrow
 
 
 + RDP Windows Gratis 6 Jam
@@ -19,12 +19,12 @@ RDP - FREE
 
 + Tekan Add Secret
 
-+ Pergi Ke Action <|> Klik Select Workflow <Pilih A.Farel.E, Pencet Run workflow
++ Pergi Ke Action <|> Klik Select Workflow <Pilih> zxrow, Pencet Run workflow
 
-+ Refresh Web/Halaman Dan Masuk Ke A.Farel.E <|> Klik Build
++ Refresh Web/Halaman Dan Masuk Ke zxrow <|> Klik Build
 
 + *Tunggu 1-5 Menit*
 
 + Tekan Tombol Panah Menghadap Ke Bawah Yg Bertuliskan (Connect RDP.) Untuk Mendapatkan IP, User, Password
 
-+  ```Peringatan! Jika Rdp Close Silahkan Klik Action <|> Pilih A.Farel.E <|> Klik Build, Klik Titik Tiga Klik Run-rensjob Dan Jalankan Lagi Rdpnya```
++  ```Peringatan! Jika Rdp Close Silahkan Klik Action <|> Pilih zxrow <|> Klik Build, Klik Titik Tiga Klik Run-rensjob Dan Jalankan Lagi Rdpnya```
